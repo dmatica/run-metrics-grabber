@@ -5,5 +5,5 @@ This tool is a script used to extract the run metric information from an Illumin
 -Yield (in Gbp)  
 -PhiX alignment  
 -Error rate  
--Scored cycles. 
+-Scored cycles  
 -Lane cluster density and %Pass filter  
